@@ -1,0 +1,13 @@
+{
+"app_id": "wx6483890b607e8bf0",
+"app_secret": "f5ad793926faa90ef8797f87ebf0fd8a",
+"template_id": "07FM8vgyu2gkwkbpS4IEqzulsYpy5gmazuQibgFFh8Q",
+"user": ["osB3L6VGpenW8zDK-WEFwAB0DnMc","osB3L6Qfq19BtGTOGJLa5DVseam0"],
+
+# 信息配置
+"province": "广西",
+"city": "南宁",
+"birthday1": {"name": "狐狸", "birthday": "2003-12-21"},
+"birthday2": {"name": "大猫", "birthday": "2004-08-16"},
+"love_date": "2018-04-01"
+}
